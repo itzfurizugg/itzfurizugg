@@ -12,4 +12,5 @@
 <h2>⚙️ My Gears:</h2>
 
 💻: Acer Nitro V15
+
 📱: Google Pixel 6a, Samsung Galaxy S5
