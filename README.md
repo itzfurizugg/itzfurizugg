@@ -16,7 +16,7 @@
 
 <h2>🛠️ My Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,arch,xampp,aws,figma,notion,linux,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,androidstudio,java,aws,vscode,windows,arch,linux,figma,notion,)](https://skillicons.dev)
 
 <h2>⚙️ My Gears:</h2>
 
