@@ -8,6 +8,10 @@
 
 💬 — Never ask me about code pls!
 
+```bash
+kalo bisa orang lain, kenapa harus gw?
+```
+
 
 
 
