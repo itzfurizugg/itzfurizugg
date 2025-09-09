@@ -9,7 +9,7 @@
 💬 Never ask me about code pls!
 
 ```bash
-neber ask me about code pls
+palum validasi 🥱🤭
 ```
 
 
