@@ -9,20 +9,17 @@
 💬 Never ask me about code pls!
 
 ```bash
-palum validasi 🥱🤭
+ketik "wenyh" kalau kalian palum validasi 🥱🤭
 ```
-
-
-
 
 ![itzfurizugg's Stats](https://github-readme-stats.vercel.app/api?username=itzfurizugg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![itzfurizugg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzfurizugg&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <h2>🛠️ My Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,androidstudio,java,aws,vscode,windows,arch,linux,figma,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,vscode,java,androidstudio,aws,windows,arch,linux,figma,notion,)](https://skillicons.dev)
 
 <h2>⚙️ My Gears:</h2>
 
 💻: Acer Nitro V15 <br>
-📱: Google Pixel 6a, Samsung Galaxy S5
+📱: Google Pixel 6a, Redmi 12C, Redmi Note 5 Pro, Samsung Galaxy S5
