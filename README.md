@@ -22,4 +22,4 @@ ketik "wenyh" kalau kalian palum validasi 🥱🤭
 <h2>⚙️ My Gears:</h2>
 
 💻: Acer Nitro V15 <br>
-📱: Google Pixel 6a, Redmi 12C, Redmi Note 5 Pro, Samsung Galaxy S5
+📱: Google Pixel 6a, Redmi 12C
