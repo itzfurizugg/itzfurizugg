@@ -1,6 +1,6 @@
 <h1>Hi! <strong>rizuuuu</strong> Here!👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=the+unserious+developer's+here!;Front-End+x+Design;other+project+still+on+WIP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=the+unserious+developer's+here!;Front-End+x+Design;other+project+still+WIP)](https://git.io/typing-svg)
 
 ```bash
 rm -rf /home/Project/
